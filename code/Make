@@ -1,0 +1,5 @@
+sonar-scanner \
+  -Dsonar.projectKey=nestjs \
+  -Dsonar.sources=. \
+  -Dsonar.host.url=http://localhost:9000 \
+  -Dsonar.token=sqp_aafa4794b9bf328cd1e89d7d45dda772dd737438
